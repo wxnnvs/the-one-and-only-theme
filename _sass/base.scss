@@ -3,9 +3,40 @@ body {
     font-family: sans-serif;
     margin: auto;
     max-width: 70ch;
+    color: #FFF;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 2rem;
 }
 
-h1, h2, h3, h4, h5, h6, p {
+h1, h2, h3, h4, h5, h6 {
+    background: linear-gradient(135deg, #b3cfff 0%, #d1b3ff 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+}
+
+ul {
+    padding-left: 1.5rem;
+    margin: 1rem 0;
+}
+
+ul > li {
+    list-style-type: "-";
+    margin: 0.5rem 0;
+    padding-left: 1rem;
+}
+
+a, a:visited {
+    color: #b3cfff;
+    text-decoration: underline;
+}
+
+a:hover {
     background: linear-gradient(135deg, #b3cfff 0%, #d1b3ff 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
