@@ -1,5 +1,6 @@
 ---
 title: Home
+layout: default
 ---
 
 # The-One-And-Only-Theme
