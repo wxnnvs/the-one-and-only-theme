@@ -1,4 +1,9 @@
 ---
+title: Home
 ---
 
-# tonic-starter
+# The-One-And-Only-Theme
+
+The one and only theme you'll ever need for your Jekyll site.
+
+Elegant, simple and beautiful
