@@ -20,7 +20,7 @@ Built by [@wxnnvs](https://wxnnvs.ftp.sh/){:target="_blank"}
 - Responsive design
 - Clean and minimalistic
 
----
+{% highlight javascript %}
+console.log("- Syntax highlighting!");
+{% endhighlight %}
 
-## Coming Soon
-- Syntax highlighting
