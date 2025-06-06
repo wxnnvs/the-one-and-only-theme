@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: the-one-and-only-theme
+description: "The one and only theme you'll ever need for your Jekyll site."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
