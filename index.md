@@ -19,8 +19,8 @@ Built by [@wxnnvs](https://wxnnvs.ftp.sh/){:target="_blank"}
 
 - Responsive design
 - Clean and minimalistic
-
 {% highlight javascript %}
 console.log("- Syntax highlighting!");
 {% endhighlight %}
-
+- Easy to customize
+{: .fancy}

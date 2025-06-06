@@ -50,3 +50,16 @@ pre {
     border-radius: 4px;
     color: #b3cfff;
 }
+
+.fancy {
+    // Bigger letters + bold + gradient + font
+    font-size: 1.1rem;
+    font-weight: bold;
+    background: linear-gradient(135deg, #b3cfff 0%, #d1b3ff 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+
+    font-family: 'Courier New', Courier, monospace;
+}
