@@ -1,0 +1,14 @@
+body {
+    background-color: #222;
+    font-family: sans-serif;
+    margin: auto;
+    max-width: 70ch;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    background: linear-gradient(135deg, #b3cfff 0%, #d1b3ff 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+}
