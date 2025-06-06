@@ -23,4 +23,4 @@ Built by [@wxnnvs](https://wxnnvs.ftp.sh/){:target="_blank"}
 console.log("- Syntax highlighting!");
 {% endhighlight %}
 - Easy to customize
-{: .fancy}
+{: .fancy #typing-animation}
